@@ -129,3 +129,21 @@ Slot into any project as "game-play shaders"
         }
     }
 
+
+Alchemy is early days yet! 
+RoadMap: 
+Runtime Basics -- Done
+C-Interop -- Done
+Queries and ECS  -- In Progress
+Concurrency -- In Progress
+Game Shaders -- Jan, 2026
+
+
+Check back here for updates, and feel free to reach out to me at alchemylangw@gmail.com
+
+
+
+
+
+
+
